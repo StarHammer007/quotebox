@@ -1,0 +1,1366 @@
+[33mcommit 91461ba87bb1e2c863f5cf89839944efd181d321[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 4bfb3a4 bfb3a6a
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 17:29:51 2019 +0530
+
+    Merge pull request #66 from mehrnazarefi/master
+    
+    added quote by Sun Tzu
+
+[33mcommit bfb3a6acacbfc71172f9ac3d3b7fd7bafb234816[m
+Merge: 1e9e1eb 4bfb3a4
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 17:28:52 2019 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 4bfb3a413f3740ffdc3a8c4e7dde806b495f27a1[m
+Merge: 357074e 3383c06
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 17:21:21 2019 +0530
+
+    Merge pull request #65 from sepidehsadat/master
+    
+    added quote by Victor hugo
+
+[33mcommit 3383c066a2105e69820cebf1343ead5fc0211e8b[m
+Merge: e39566c 357074e
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 17:21:09 2019 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 357074eb7528cf779f6486f268721c2c6ffeaa1d[m
+Merge: 9019098 4cb5c0d
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 16:12:16 2019 +0530
+
+    Merge pull request #68 from jaskarans2000/add-jaskaran-singh
+    
+    Add Jaskaran Singh to contributors list
+
+[33mcommit 4cb5c0d8fa7fdc0b07d784d97b3ec73fe86a1760[m
+Author: jaskarans2000 <36985639+jaskarans2000@users.noreply.github.com>
+Date:   Sat Oct 12 14:45:35 2019 +0530
+
+    Add Jaskaran Singh to contributors list
+
+[33mcommit 1e9e1ebeb09feda07e56c408300f44973aebce1c[m
+Author: mehrnazarefi <56465014+mehrnazarefi@users.noreply.github.com>
+Date:   Sat Oct 12 09:42:49 2019 +0330
+
+    added quote by Sun Tzu
+
+[33mcommit e39566c0449b381ae32f8046bfe2a9bdcd828f5f[m
+Author: sepidehsadat <52189221+sepidehsadat@users.noreply.github.com>
+Date:   Sat Oct 12 09:37:31 2019 +0330
+
+    added quote by Victor hugo
+
+[33mcommit 901909821c2db1c9d3da90022ac5a8ef9477f992[m
+Merge: ac5a165 58a337c
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 11:35:52 2019 +0530
+
+    Merge pull request #46 from Priyansi/patch-1
+    
+    Update quotes.json
+
+[33mcommit 58a337c1db249f2014fa4c35051bea4fdbded673[m
+Merge: 5aae57c ac5a165
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 11:35:17 2019 +0530
+
+    Merge branch 'master' into patch-1
+
+[33mcommit ac5a165685bf8bbe80444992616466fc91c57931[m
+Merge: 5d68e00 aff2349
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 11:33:04 2019 +0530
+
+    Merge pull request #64 from aditya2000/newbranch
+    
+    new quotes added
+
+[33mcommit aff23494c26a376bee409c284bbfb94fb7af4297[m
+Author: aditya2000 <bw99214@gmail.com>
+Date:   Sat Oct 12 11:09:26 2019 +0530
+
+    new quotes added
+
+[33mcommit 5d68e00ef21d881f949aa9323f8af762aa468768[m
+Merge: 4854530 91034c9
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 10:59:53 2019 +0530
+
+    Merge pull request #13 from Diegoafv/quote_diegoafv
+    
+    Added quote from Maya Angelou
+
+[33mcommit 91034c90959a8e444af0004447d19328c1e4685c[m
+Merge: 7d0b6b6 4854530
+Author: Diego Ferreira <dafvus@gmail.com>
+Date:   Fri Oct 11 22:03:18 2019 -0700
+
+    Merge branch 'master' into quote_diegoafv
+
+[33mcommit 7d0b6b6a49c9c4d86edd4fd41041bfd6535c46de[m
+Author: Diego Ferreira <dafvus@gmail.com>
+Date:   Fri Oct 11 22:02:19 2019 -0700
+
+    Update quotes.json
+
+[33mcommit 48545304cbbcd1cb40224b41d56485723c2d2299[m
+Merge: 9d6d076 e46765d
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 10:28:53 2019 +0530
+
+    Merge pull request #63 from akshaythakare7/master
+    
+    Added Mahatma Gandhi quote and formatting
+
+[33mcommit e46765d420d515a2992219de38d8b2e2629b8215[m
+Author: akshaythakare7 <32819562+akshaythakare7@users.noreply.github.com>
+Date:   Sat Oct 12 10:15:33 2019 +0530
+
+    Added Mahatma Gandhi quote and formatting
+
+[33mcommit 9d3103191060bedf1df5cb5e92064af33d34d3e1[m
+Merge: a231b51 9d6d076
+Author: Diego Ferreira <dafvus@gmail.com>
+Date:   Fri Oct 11 21:41:15 2019 -0700
+
+    Merge branch 'master' into quote_diegoafv
+
+[33mcommit 9d6d076078ee2befdcd746f81346b57e754d6427[m
+Merge: 83400bd 881a1bd
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:35:43 2019 +0530
+
+    Merge pull request #58 from tcgronk/new-quote-added
+    
+    New Quote Added
+
+[33mcommit 881a1bdbffe06cd8e780432b2fc9f16e5e02eabd[m
+Merge: d50c0a8 83400bd
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:35:15 2019 +0530
+
+    Merge branch 'master' into new-quote-added
+
+[33mcommit d50c0a8a25bad07b42fcd9b4d2386700800ce186[m
+Author: Tess Gronski <theresegronski@Tesss-MacBook-Air.local>
+Date:   Fri Oct 11 22:02:53 2019 -0500
+
+    removed unnecessary comma
+
+[33mcommit 83400bd8a492296f7ede49fcb61c01d37bd5c1fd[m
+Merge: ddcc7ab 2c58f4e
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:27:53 2019 +0530
+
+    Merge pull request #61 from ZanderBE/update-my-quote
+    
+    Added powerful Joe Rogan quote
+
+[33mcommit ddcc7abf41d8f941d4c990af6109510d88742294[m
+Merge: 1994c85 8858f03
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:27:23 2019 +0530
+
+    Merge pull request #60 from KWaldhaus/add-quote
+    
+    Added Issac Asimov quote
+
+[33mcommit 8858f031a0fcf3b0c8628c49d7a606251bed0811[m
+Merge: 52eff6c 1994c85
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:27:16 2019 +0530
+
+    Merge branch 'master' into add-quote
+
+[33mcommit 1994c8574bf5f7595cdd2e7d6364e2a4d5565ddd[m
+Merge: c86a454 6bd1975
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:26:07 2019 +0530
+
+    Merge pull request #59 from MadamaMktg/madamamktg-adds-new-quote
+    
+    Add Kurt Cobain quote
+
+[33mcommit 6bd19758a4bca51bf694c5fceb9329ab17d38867[m
+Merge: 3ece534 c86a454
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:25:57 2019 +0530
+
+    Merge branch 'master' into madamamktg-adds-new-quote
+
+[33mcommit c86a454beb8a4aedac5a930af902a35866d0acbe[m
+Merge: a1e9cf4 78c0b69
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:20:41 2019 +0530
+
+    Merge pull request #57 from Alireza-Sampour/Brian-Kernighan-quote
+    
+    Merge branch master into Brian-Kernighan-quote
+
+[33mcommit a1e9cf42e16da014074819c173bb8ca85a15e9ea[m
+Merge: 4c422c4 beb66a0
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:20:08 2019 +0530
+
+    Merge pull request #56 from GeniusStorm/issu#1_adding_chanakya_quote
+    
+    adding chanakya quote
+
+[33mcommit beb66a0e51d3b520a273e1e847f4d12390fdd044[m
+Merge: bf8ca00 4c422c4
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:19:56 2019 +0530
+
+    Merge branch 'master' into issu#1_adding_chanakya_quote
+
+[33mcommit 4c422c445fc9b6a1e42ea1100adf9e03bfe728d6[m
+Merge: 33fdc2c 062c699
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:18:37 2019 +0530
+
+    Merge pull request #55 from prashanthashok/master
+    
+    Adding quote from Futurama cartoon
+
+[33mcommit 33fdc2c1a181a66670c05b9767101d59a6a279ea[m
+Merge: 47e1a29 3a7a9f0
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:16:15 2019 +0530
+
+    Merge pull request #53 from DharmatejaMyneni/add-quote-dharma
+    
+    Added powerful quote to quotes.json
+
+[33mcommit 47e1a2939f5f11e8a8a779e1f6d9716ae59563d2[m
+Merge: d5fbfae c8a595e
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:15:48 2019 +0530
+
+    Merge pull request #52 from mountwo23/master
+    
+    Added Quote by Stephen Chbosky
+
+[33mcommit d5fbfae4df746ccfafb21d0ab66596d7fcccb46d[m
+Merge: 5123971 4310226
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:15:19 2019 +0530
+
+    Merge pull request #51 from kartikmohan123/kartikmohan123-patch-1
+    
+    Added Steve Jobs quote
+
+[33mcommit 431022650e99a555655ac38e1686ef73cefb70d1[m
+Merge: 70d32c6 5123971
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:15:00 2019 +0530
+
+    Merge branch 'master' into kartikmohan123-patch-1
+
+[33mcommit 51239716af69c351a3a22f0491cedca951c1f749[m
+Merge: eab0d27 9db6592
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:13:57 2019 +0530
+
+    Merge pull request #50 from jB1rd0/master
+    
+    Added coding quote by Michael Crichton to quotes.json
+
+[33mcommit 9db65929228081fcd6b4232605a9f7fac4ebb166[m
+Merge: 91c7203 eab0d27
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:13:37 2019 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit eab0d27babe77e4ff3f4bf60f145fbd4d9de67f9[m
+Merge: 8c55904 7ce6fa4
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:12:37 2019 +0530
+
+    Merge pull request #49 from km-js/add-quote
+    
+    added new quote of steve jobs
+
+[33mcommit 8c55904345812bd870613131f357d1dc6513bcae[m
+Merge: 258f5a8 9424eb8
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:11:26 2019 +0530
+
+    Merge pull request #48 from nitishsai9/master
+    
+    updated quote
+
+[33mcommit 9424eb8486b2b8fc299830da73ffb92e82646a1a[m
+Merge: d4e3956 258f5a8
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:11:17 2019 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 258f5a86d8895108c561fa9f339c3cfef5d56ea5[m
+Merge: 14220bd 1a05fa4
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:10:19 2019 +0530
+
+    Merge pull request #47 from farhazalam/farhazalam/addedquote
+    
+    Quote added by Farhaz Alam
+
+[33mcommit 1a05fa4b5dbf69aacf26a53fae0ad763fe86d433[m
+Merge: 6b757f7 14220bd
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Sat Oct 12 08:10:08 2019 +0530
+
+    Merge branch 'master' into farhazalam/addedquote
+
+[33mcommit 52eff6c61d88fcf34bed32f331e52dec4cf91458[m
+Author: KWaldhaus <kilian.waldhaus@stud.fh-flensburg.de>
+Date:   Sat Oct 12 01:36:32 2019 +0200
+
+    Added Issac Asimov quote
+
+[33mcommit 2c58f4ef284983f2fc887ac0ee12beec2c7b7116[m
+Author: Zander <zanderbrownlieedward@gmail.com>
+Date:   Fri Oct 11 16:20:41 2019 -0700
+
+    Added powerful Joe Rogan quote
+
+[33mcommit 3ece534528b88784711f344821e4c9e91416ca9d[m
+Author: Roberta P <robertapuze@gmail.com>
+Date:   Fri Oct 11 22:40:37 2019 +0100
+
+    Add Kurt Cobain quote
+
+[33mcommit 209f30b30899f8301228c1a11acae92a7020616f[m
+Author: Tess Gronski <theresegronski@Tesss-MacBook-Air.local>
+Date:   Fri Oct 11 14:49:45 2019 -0500
+
+    New Quote Added
+
+[33mcommit 78c0b69836135ea580609fe5266986bd3e667f9b[m
+Author: alireza <alirezasampoor@gmail.com>
+Date:   Fri Oct 11 23:14:35 2019 +0330
+
+    Merge branch master into Brian-Kernighan-quote
+
+[33mcommit bf8ca005ec5c813eb21ecac19aa2f176d55f2f4a[m
+Author: Raghu Kamat <rkamat@teladoc.com>
+Date:   Fri Oct 11 14:56:27 2019 -0400
+
+    fixing data keys
+
+[33mcommit c87b640d08e4e07b402c6423a4be6425d4094cae[m
+Author: Raghu Kamat <rkamat@teladoc.com>
+Date:   Fri Oct 11 14:55:20 2019 -0400
+
+    adding chanakya quote
+
+[33mcommit a231b5134d356a3d98707538bbb6a09de485b8f0[m
+Merge: 2311622 14220bd
+Author: Diego Ferreira <dafvus@gmail.com>
+Date:   Fri Oct 11 10:36:11 2019 -0700
+
+    Merge branch 'master' into quote_diegoafv
+
+[33mcommit 062c699987d72fc792104f89e96d56ea22841dfa[m
+Author: Prashanth Ashok Ramkumar <prashanth.ashokram@gmail.com>
+Date:   Fri Oct 11 13:35:34 2019 -0400
+
+    Adding quote from Futurama cartoon
+    
+    Adding my favorite quote about not expecting anything in return from Futurama
+
+[33mcommit 2311622fed2bc683fe54d5210d2531dfc96afe79[m
+Author: Diego Ferreira <dafvus@gmail.com>
+Date:   Fri Oct 11 10:32:22 2019 -0700
+
+    Delete ._index.html
+
+[33mcommit 3a7a9f0c2432ff2a110543dad369d2f561198642[m
+Author: DharmaTeja Myneni <dharmatejamyneni6123@gmail.com>
+Date:   Fri Oct 11 22:29:57 2019 +0530
+
+    Added Cool quote
+
+[33mcommit 5aae57c6d0eed42dea64b2e44de31650bc602753[m
+Author: Priyansi <priyanhiman@gmail.com>
+Date:   Fri Oct 11 22:22:29 2019 +0530
+
+    Update quotes.json
+
+[33mcommit c8a595e0cd52eefb4d168c27d7c68ec22a2f3c30[m
+Author: mountwo23 <55633208+mountwo23@users.noreply.github.com>
+Date:   Fri Oct 11 17:50:59 2019 +0100
+
+    Added Quote by Steven
+
+[33mcommit 70d32c68cff434a9425ed2c32e66b74c3bc13ffa[m
+Author: Kartik Mohan <42971268+kartikmohan123@users.noreply.github.com>
+Date:   Fri Oct 11 22:11:34 2019 +0530
+
+    Update quotes.json
+
+[33mcommit 92a23bc09fcd8d3b3b40dbf1413e085800367247[m
+Author: Kartik Mohan <42971268+kartikmohan123@users.noreply.github.com>
+Date:   Fri Oct 11 22:07:28 2019 +0530
+
+    Added Steve Jobs quote
+
+[33mcommit 91c72031c137b682cc3ab100e8922123f6d51d2a[m
+Author: jB1rd0 <55629229+jB1rd0@users.noreply.github.com>
+Date:   Fri Oct 11 17:33:09 2019 +0100
+
+    Update quotes.json
+
+[33mcommit 7ce6fa4eb208c8bbee3a5f20fc280c36a25b5cf0[m
+Author: Kopal Mehta <kopalmehta4@gmail.com>
+Date:   Fri Oct 11 21:24:32 2019 +0530
+
+    added new quote of steve jobs
+
+[33mcommit d4e3956729e8629152baa85f38f084a917c91414[m
+Merge: 14220bd 3ccbd23
+Author: kommaraju nitish sai <kommaraju.nitish.9@gmail.com>
+Date:   Fri Oct 11 21:21:31 2019 +0530
+
+    Merge pull request #1 from nitishsai9/nitishsai9-patch-1
+    
+    updated quote
+
+[33mcommit 3ccbd236f1534bc0d9dabe10a40aaacea6d2c34c[m
+Author: kommaraju nitish sai <kommaraju.nitish.9@gmail.com>
+Date:   Fri Oct 11 21:21:14 2019 +0530
+
+    updated quote
+
+[33mcommit 14220bdbc11240c25f365e789b005b8d6a8349d1[m
+Merge: d6b54f1 6c27738
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 21:13:05 2019 +0530
+
+    Merge pull request #33 from stillmanG/master
+    
+    Added quote by Grace Hopper
+
+[33mcommit 6b757f73e8bee523f0079c7e010813750ed43195[m
+Author: Farhaz <farhazalam@gmail.com>
+Date:   Fri Oct 11 21:12:52 2019 +0530
+
+    Quote added by Farhaz Alam
+
+[33mcommit 6c27738887af79d5f258446e8f854d0c828f7708[m
+Merge: 8289af9 d6b54f1
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 21:12:16 2019 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 75c45053e70b227970b9f9222702a01b5eab7ca9[m
+Author: Priyansi <priyanhiman@gmail.com>
+Date:   Fri Oct 11 19:15:36 2019 +0530
+
+    Update quotes.json
+
+[33mcommit 8289af9a83f5a2e62cf4dcb32a3f7489b07921b7[m
+Author: Gabby Stillman <gstillm2@u.rochester.edu>
+Date:   Fri Oct 11 09:30:12 2019 -0400
+
+    Update quotes.json
+
+[33mcommit d6b54f128478b13dce6ace6ae25faa7072cedf8d[m
+Merge: 78d6105 560d0c7
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 18:38:11 2019 +0530
+
+    Merge pull request #45 from phongduong/add-quote
+    
+    Add Carol Burnett's quote
+
+[33mcommit 560d0c7e89409d6ec7dfe444c06951f15dadf23e[m
+Author: Phong Duong <s2pkmol@gmail.com>
+Date:   Fri Oct 11 20:05:34 2019 +0700
+
+    Add quote
+
+[33mcommit 78d610511a55075c2477d2a82399d9897a1d0223[m
+Merge: b23d7e8 a1e8e2e
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 18:28:04 2019 +0530
+
+    Merge pull request #16 from nmatni/master
+    
+    Mises's Quote
+
+[33mcommit a1e8e2e5ea6e64ec31113b72c60761b2f7c7a246[m
+Author: Nagib Matni <nmatni@gmail.com>
+Date:   Fri Oct 11 09:53:38 2019 -0300
+
+    Mises's Quote
+
+[33mcommit 5abbc799ffdff91e748436ad4434c89aab91a7fc[m
+Merge: 42c8e78 b23d7e8
+Author: nmatni <nmatni@gmail.com>
+Date:   Fri Oct 11 09:51:56 2019 -0300
+
+    Merge pull request #1 from bauripalash/master
+    
+    update
+
+[33mcommit b23d7e8366a9bbd1fdd11d056ccdebc23f20e023[m
+Merge: 6bcb605 2ecc8f0
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 17:20:12 2019 +0530
+
+    Merge pull request #43 from ylruiz/add/quote
+    
+    Added a quote by Albert Einstein
+
+[33mcommit 2ecc8f0d5571108aad6d8a11d42ecb9018b1b7e7[m
+Merge: e745e0a 6bcb605
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 17:20:00 2019 +0530
+
+    Merge branch 'master' into add/quote
+
+[33mcommit 6bcb605a0b7302b6e7cbb74f9edc58ed385fe8e9[m
+Merge: 3cceb0d e9512e3
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 17:16:57 2019 +0530
+
+    Merge pull request #42 from aliciacisnerosm/quote-alicia
+    
+    Add new quote
+
+[33mcommit e9512e3bfb29acc460639042cd8b902b46a2622e[m
+Merge: bb7cf5f 3cceb0d
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 17:16:08 2019 +0530
+
+    Merge branch 'master' into quote-alicia
+
+[33mcommit 3cceb0d1e0f1955189b93f5ec2feea27372b4f71[m
+Merge: 92504e0 83c47f4
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 17:13:07 2019 +0530
+
+    Merge pull request #41 from mcarval4/master
+    
+    Added quote by Matheus Carvalho
+
+[33mcommit 83c47f445ceddb6aa8c9b9f886ada3f709b254e9[m
+Merge: ff34c5b 92504e0
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 17:12:47 2019 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 92504e05d330592d5048c12f86930cdc9915663d[m
+Merge: 00b4dfb ef89ea3
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 17:09:52 2019 +0530
+
+    Merge pull request #40 from amarjeetrao/master
+    
+    Added a quote by Amarjeet Rao
+
+[33mcommit e745e0ad7f848150ea2183c9548293cf5e55bbc1[m
+Author: Yunet <yunet.lruiz94@gmail.com>
+Date:   Fri Oct 11 13:14:23 2019 +0200
+
+    Added a quote by Albert Eistein
+
+[33mcommit bb7cf5f2aeb76fc8ff8ddb350444696ed38bb83b[m
+Author: aliciacisnerosm <aliciacisnerosm@gmail.com>
+Date:   Fri Oct 11 13:04:38 2019 +0200
+
+    Add new quote & speaker
+
+[33mcommit ff34c5b55d95e5b93eeec80a0c1b97dd045b8a22[m
+Author: Matheus Carvalho de Souza <matheus.carvalho96@gmail.com>
+Date:   Fri Oct 11 07:59:23 2019 -0300
+
+    Update quotes.json
+
+[33mcommit ef89ea3e1a87bb24423ae06f91327f306eba7637[m
+Author: Amarjeet <amarjeetrao33@gmail.com>
+Date:   Fri Oct 11 16:03:21 2019 +0530
+
+    Added a quote by Amarjeet Rao
+
+[33mcommit 00b4dfb56ce56808f1043e5e67033d31d147e5e0[m
+Merge: c82070b 560b4a6
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 13:51:30 2019 +0530
+
+    Merge pull request #39 from angrammenos97/master
+    
+    Add Bill Keane's quote.
+
+[33mcommit 560b4a623cd927c6f13c7842196a2ef09af75d74[m
+Author: Anastasios Grammenos <34183195+angrammenos97@users.noreply.github.com>
+Date:   Fri Oct 11 11:20:34 2019 +0300
+
+    Update quotes.json
+
+[33mcommit 5d256868c95c2ad3b3a9fdef066b18f6b5f3eb0b[m
+Merge: bd980d9 c82070b
+Author: Anastasios Grammenos <34183195+angrammenos97@users.noreply.github.com>
+Date:   Fri Oct 11 11:14:02 2019 +0300
+
+    Merge branch 'master' into master
+
+[33mcommit c82070ba813852d656896a01b913519c82150e18[m
+Merge: 20c3f1b b1c022d
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 13:42:14 2019 +0530
+
+    Merge pull request #38 from lkdmttg7/patch-1
+    
+    Added couple of quotes
+
+[33mcommit 20c3f1b7e8d0ad72cf42525200c866c566a29fec[m
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 13:40:43 2019 +0530
+
+    Update README.md
+
+[33mcommit bd980d90edaaafedc681b3754d52a6b6ba403d61[m
+Author: Anastasios Grammenos <avgramme@ece.auth.gr>
+Date:   Fri Oct 11 11:09:47 2019 +0300
+
+    Add Bill Keane's quote.
+
+[33mcommit b1c022d5c65005349712ce98a90ab19fd1291a80[m
+Author: lkdmttg7 <raderajas@gmail.com>
+Date:   Fri Oct 11 13:35:28 2019 +0530
+
+    Added couple of quotes
+
+[33mcommit a5dfc42d4547b477f9b2927c989f712fd496b32b[m
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 13:27:53 2019 +0530
+
+    Update README.md
+
+[33mcommit 07e109a482590cadc0ad1113b16228f25e9c01db[m
+Merge: 0e84bb7 3a9abe9
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 13:18:49 2019 +0530
+
+    Merge pull request #37 from joyous30/new-qoute
+    
+    added some qoutes
+
+[33mcommit 3a9abe97a6a0149f325c66bcc3d84855ddc9117f[m
+Author: joyous30 <54979011+joyous30@users.noreply.github.com>
+Date:   Fri Oct 11 14:46:11 2019 +0700
+
+    update qoutes.json, added comma
+
+[33mcommit dcb5b7f8d7e3d8472ab1be9052b2084b7f67c9dc[m
+Author: joyous30 <USER@MYPC.panelco.local>
+Date:   Fri Oct 11 15:23:37 2019 +0700
+
+    added some qoutes
+
+[33mcommit a9a013766e68a6730dcafd8950f908c75311b15b[m
+Author: Diego Ferreira <dafvus@gmail.com>
+Date:   Fri Oct 11 00:25:32 2019 -0700
+
+    Update quotes.json
+
+[33mcommit e1910162b0f70d7005400909766dfe65ca7ab14b[m
+Author: Diego Ferreira <dafvus@gmail.com>
+Date:   Fri Oct 11 00:24:49 2019 -0700
+
+    Update quotes.json
+
+[33mcommit 0e84bb75794b40644deec6abd8c15fcc7a7cc4fc[m
+Merge: 2d06a03 8980b51
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 11:14:16 2019 +0530
+
+    Merge pull request #36 from aasimarr/master
+    
+    words that melt my heart
+
+[33mcommit 2d06a03808543808c6746d5c3544eba72c32d412[m
+Merge: 45efcf5 a67a0e6
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 11:11:04 2019 +0530
+
+    Merge pull request #15 from sawatdee/master
+    
+    Add a quote by Stephen Hawking
+
+[33mcommit 8980b518cc026e3f27dec886e390ad646efa01d1[m
+Author: aasimarr <56424740+aasimarr@users.noreply.github.com>
+Date:   Fri Oct 11 16:40:34 2019 +1100
+
+    Update quotes.json
+
+[33mcommit 45efcf5ff5921f0cc1302996c705c1fa21130ce6[m
+Merge: 9725641 1cd7f87
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 11:08:18 2019 +0530
+
+    Merge pull request #35 from bauripalash/aca
+    
+    Added Contributors Link at the Footer
+
+[33mcommit 1cd7f8786d2cee948b66fecd3f15c11c226dbf03[m
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 11:06:33 2019 +0530
+
+    Update index.html
+
+[33mcommit d832cdb239ef92f5d17b6f321d0ef64ea12967be[m
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 11:04:57 2019 +0530
+
+    Added Contributors Attributions
+
+[33mcommit 9725641c3684e84f8fe1846e3edc7763dfe901bb[m
+Merge: 83a8bd3 f4b26d0
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 10:54:24 2019 +0530
+
+    Merge pull request #34 from BunditSpace/add-new-quote
+    
+    add new quote
+
+[33mcommit 83a8bd340684718bde0e10cb2eb779d02b7d1ec3[m
+Merge: 1d6016b c655590
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:51:28 2019 +0530
+
+    git push origin masterMerge branch 'mgitgrullon-master'
+    
+    FPR #32
+
+[33mcommit c655590e59e9a1725e5857da4c2fa308e786eb30[m
+Merge: 1d6016b 2f1661c
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:51:11 2019 +0530
+
+    FMC 16
+
+[33mcommit 1d6016b1f91173ce65af07c43c1281a5f0050c95[m
+Merge: 55c699a 5125942
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:49:19 2019 +0530
+
+    git push origin masterMerge branch 'rarbuthnot-patch-1'
+    
+    FPR #31
+
+[33mcommit 5125942bac27b6a16d58834ffd6db43b9e5cea29[m
+Merge: 55c699a aa97e1a
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:49:13 2019 +0530
+
+    FMC 15
+
+[33mcommit 55c699a1fb7db10e6d45386a2916814f1c01ebc8[m
+Merge: 93fbf8b da352f8
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:47:11 2019 +0530
+
+    git push origin masterMerge branch 'chilah-add-quote'
+    
+    FPR #30
+
+[33mcommit da352f8c24bdce3806d4cf541f3f0cc0c9347428[m
+Merge: 93fbf8b 3700510
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:46:59 2019 +0530
+
+    FMC 14
+
+[33mcommit 93fbf8bbf4ccc5bbc831db760dc4f936f39c67ac[m
+Merge: 791d1ed ba73c6c
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:39:42 2019 +0530
+
+    git push origin masterMerge branch 'Sommerariel-master'
+    
+    FPR #27
+
+[33mcommit ba73c6cd9707ad7d778fcb2bd484462750d72cca[m
+Merge: 791d1ed ac34d87
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:39:19 2019 +0530
+
+    FMC 13
+
+[33mcommit 791d1ed9338a50514ca59a332a73d1bf82569eab[m
+Merge: 6a21686 f5f475a
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:35:44 2019 +0530
+
+    git push origin masterMerge branch 'm6ng-master'
+    
+    FPR #26
+
+[33mcommit f5f475a655401712a0f6867e92d271877846ff33[m
+Merge: 6a21686 4c3da80
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:35:33 2019 +0530
+
+    FMC 12
+
+[33mcommit 6a21686f8a2386984f8807862e9d2066fd6f5e63[m
+Merge: a5714a8 cca3404
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:33:13 2019 +0530
+
+    git push origin masterMerge branch 'wabyroadefgcu-wabyroadefgcu-mark-twain-quote'
+    
+    FPR #25
+
+[33mcommit cca34043729289fd24f411f5235b69a37fab8f47[m
+Merge: a5714a8 57abf28
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:32:42 2019 +0530
+
+    FMC 11
+
+[33mcommit a5714a8e9e99af4a38edb60c966fdd7d28a15e01[m
+Merge: 7f68852 2a40f23
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:30:45 2019 +0530
+
+    git push origin masterMerge branch 'Megarpie-master'
+    
+    FPR #24
+
+[33mcommit 2a40f232e912d325f8bc34fcaec8c403b91eb023[m
+Merge: 7f68852 dab4d7d
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:30:35 2019 +0530
+
+    FMC 10
+
+[33mcommit 7f6885285d293b7a5fa0a7818de468b39f2a5dce[m
+Merge: 83a2851 e279d3b
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:28:55 2019 +0530
+
+    Merge branch 'piyushsinha24-piyushsinha24/quote'
+    
+    FPR #23
+
+[33mcommit e279d3b09cae120cf4750377956eeac4a1a82a6e[m
+Merge: 83a2851 0fd0661
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:28:42 2019 +0530
+
+    FMC 9
+
+[33mcommit 83a28517ac63d19c0bf2b651108dda9b1a400e75[m
+Merge: ded40e2 883df71
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:26:52 2019 +0530
+
+    Merge branch 'whitek2-master'
+    
+    FPR #22
+
+[33mcommit 883df71627c9f713d6a92e0a0313d757ba4301cd[m
+Merge: ded40e2 543d012
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:26:30 2019 +0530
+
+    FMC 8
+
+[33mcommit ded40e2d3b8d39a59c791162ba14bf45a0526b5e[m
+Merge: f5176f8 57c68bf
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:24:18 2019 +0530
+
+    Merge branch 'dominusmars-master'
+    
+    FPR #21
+
+[33mcommit 57c68bfcbda9b6920adec7e08f68f3b9ef229d58[m
+Merge: f5176f8 9b2afd4
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:23:48 2019 +0530
+
+    FMC 7
+
+[33mcommit a67a0e64e47949fc51806385b24aea8ef6ba765f[m
+Merge: 34bc884 f5176f8
+Author: sawatdee <40620379+sawatdee@users.noreply.github.com>
+Date:   Fri Oct 11 11:48:50 2019 +0700
+
+    Merge branch 'master' into master
+
+[33mcommit 34bc884318f149dfbf5179ebf4851e6bb0533e9c[m
+Author: sawatdee <osuppawej@hotmail.com>
+Date:   Fri Oct 11 11:44:14 2019 +0700
+
+    Add comma
+
+[33mcommit f5176f8c662a61c59e6f02142ed4f8301f147840[m
+Merge: 80c3557 e4cee66
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:05:04 2019 +0530
+
+    Merge branch 'jyarali-master'
+    
+    FPR #20
+
+[33mcommit e4cee661af38e0135c0e88c52cb8834570101842[m
+Merge: 80c3557 97d9fcc
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 10:02:36 2019 +0530
+
+    FMC 6
+
+[33mcommit 80c35575a1490a8e6acd188c061a1f58acdb8b62[m
+Merge: 195740f 15437f9
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:58:22 2019 +0530
+
+    Merge branch 'anshuldutt21-master'
+    
+    FPR #19
+
+[33mcommit 15437f9fa51c4cb5fa8f97fdff3b4ba3b846934b[m
+Merge: 195740f 21b7f0b
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:56:03 2019 +0530
+
+    FMC 5
+
+[33mcommit 195740fa94acdb726f9c8cc4a60553cf5cd4b33d[m
+Merge: 9c88ba6 5ac53b1
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:52:10 2019 +0530
+
+    git push origin masterMerge branch 'emonteroe-master'
+    
+    FPR #18
+
+[33mcommit 5ac53b13ac06e66676f83a6828d25b6bea7230ef[m
+Merge: 9c88ba6 df1046f
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:51:49 2019 +0530
+
+    FMC
+
+[33mcommit 9c88ba61139225d23a7ada7a1441b19fd40a4628[m
+Merge: 3007cd9 34af0cf
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:47:44 2019 +0530
+
+    git push origin masterMerge branch 'FelipeRocha-master'
+    
+    FPR #17
+
+[33mcommit 39368280b2a853350995adb8eed6bf0c1794cfe3[m
+Merge: 3c31ea7 3007cd9
+Author: Diego Ferreira <dafvus@gmail.com>
+Date:   Thu Oct 10 21:17:25 2019 -0700
+
+    Merge branch 'master' into quote_diegoafv
+
+[33mcommit 34af0cfaacfd959a7bc7f55f0124412ac62c66d5[m
+Merge: 3007cd9 f1cb2b8
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:47:25 2019 +0530
+
+    FMC 3
+
+[33mcommit 3007cd94456ea043505310f71ec21f615fcf0adb[m
+Merge: c6c206b fdf767a
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:35:09 2019 +0530
+
+    Merge branch 'master' of https://github.com/bauripalash/quotebox
+
+[33mcommit f4b26d021be2e905ab88c53b64bcf7e389216404[m
+Author: BunditSpace <spidar21@gmail.com>
+Date:   Fri Oct 11 11:04:00 2019 +0700
+
+    add new quote
+
+[33mcommit c6c206bbf5f8e06f2adaeeff4227f46381916b0a[m
+Merge: c521b94 1cf2824
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:30:47 2019 +0530
+
+    Merge branch 'Zeustopher-patch-1'
+    
+    Fixes PR #14
+
+[33mcommit 1cf2824670fd7e357387625bd68f275494e93b70[m
+Merge: c521b94 eea4f25
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:30:12 2019 +0530
+
+    resolved merge conflict 2
+
+[33mcommit fdf767ae8b50c39904455f36046110ab84810a0f[m
+Merge: c521b94 d1499ff
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 09:23:04 2019 +0530
+
+    Merge pull request #3 from alloro/bill-gates-quote
+    
+    Add famous quote from bill gates at the needs from 1981
+
+[33mcommit c521b940716ef5c40e1306a3ec868171e2dea40c[m
+Merge: 07353ad 75484fe
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:20:47 2019 +0530
+
+    Merge branch 'fabioraraujo-master'
+    
+    Fixes PR #12
+
+[33mcommit 75484fe4d3c8ca5a136c3b482055eee4af82b41d[m
+Merge: 07353ad a780b5f
+Author: Palash Bauri <palashbauri1@gmail.com>
+Date:   Fri Oct 11 09:20:31 2019 +0530
+
+    resolved merge conflict
+
+[33mcommit d32978ccbe6974cc4d6507e744a8f9a101b44ec4[m
+Author: stillmanG <gstillm2@u.rochester.edu>
+Date:   Thu Oct 10 23:26:43 2019 -0400
+
+    Added quote by Grace Hopper
+
+[33mcommit 2f1661c30bd13e90e6e26994ac4e4f78c244c169[m
+Author: Mario Grullon <mitgrullon@hotmail.com>
+Date:   Thu Oct 10 23:03:13 2019 -0400
+
+    add an amazing quote
+
+[33mcommit 07353ad89264a2388b8a2b50a91dc2860a9fdbd7[m
+Merge: 3def78c 7e74aab
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Fri Oct 11 08:29:18 2019 +0530
+
+    Merge pull request #11 from salilbc/master
+    
+    Quotes from Mary Kom and Virat Kohli
+
+[33mcommit aa97e1a15c038f1975547103d9a8fb5654f5bf90[m
+Author: Russ Arbuthnot <russellarbuthnot@gmail.com>
+Date:   Thu Oct 10 22:36:01 2019 -0400
+
+    Added my favorite quote about planning and plans.
+
+[33mcommit 370051076809f3bc508c7b650a36087ebc34c54e[m
+Merge: b2321a9 3def78c
+Author: Jirapong Kanha <39336003+chilah@users.noreply.github.com>
+Date:   Fri Oct 11 09:34:24 2019 +0700
+
+    Merge branch 'master' into add-quote
+
+[33mcommit b2321a966040ef931cbdf9fefaf65ca8fe795dfd[m
+Author: Jirapong Kanha <jirapong@cupcodeteam.com>
+Date:   Fri Oct 11 09:30:37 2019 +0700
+
+    Change author name
+
+[33mcommit ac34d87a4ba4afa14c91d5703e37dd8a6a731245[m
+Merge: 3def78c c7535ed
+Author: Sommer <shearersommer@gmail.com>
+Date:   Thu Oct 10 19:14:03 2019 -0600
+
+    Merge pull request #1 from Sommerariel/Sommerariel-quote
+    
+    Update quotes.json
+
+[33mcommit c7535edf75b904628f56237ab9ed73d832fc77c9[m
+Author: Sommer <shearersommer@gmail.com>
+Date:   Thu Oct 10 19:13:19 2019 -0600
+
+    Update quotes.json
+
+[33mcommit 4c3da80a784f0aa0a81d8b00d727c80a60e1d0a6[m
+Author: Mervin Ng <m6ng@ucsd.edu>
+Date:   Thu Oct 10 17:48:45 2019 -0700
+
+    Added quote from William Morris
+    
+    I added a quote from William Morris.
+
+[33mcommit 57abf288145097f1575a005b21462b11532e9a1b[m
+Author: wabyroadefgcu <35806610+wabyroadefgcu@users.noreply.github.com>
+Date:   Thu Oct 10 20:16:15 2019 -0400
+
+    Mark Twain quote
+    
+    The secret of getting ahead is getting started.
+
+[33mcommit dab4d7dcb2956f9830183e79b389ccba6896a00f[m
+Merge: 3def78c 7bad994
+Author: Megan Kim <megankim314@gmail.com>
+Date:   Thu Oct 10 15:46:58 2019 -0700
+
+    Merge pull request #1 from Megarpie/quote-juliachild
+    
+    Adding quote from Julia Child
+
+[33mcommit 7bad994fa16c6f9c6263dd1949389bb5853e5cf3[m
+Author: Megan Kim <megankim314@gmail.com>
+Date:   Thu Oct 10 15:45:49 2019 -0700
+
+    Adding quote from Julia Child
+
+[33mcommit 0fd066193437c26ef4a593b79f1669a3038de899[m
+Author: Piyush Sinha <piyushsinha@Piyushs-MacBook-Air.local>
+Date:   Fri Oct 11 03:44:54 2019 +0530
+
+    quote by karl
+
+[33mcommit 898ca9c7913053c5bb62d2685cd96b75f1a762c2[m
+Merge: 3def78c 0e1642c
+Author: Piyush Sinha <piyush.sinha24@gmail.com>
+Date:   Fri Oct 11 03:37:46 2019 +0530
+
+    Merge pull request #1 from piyushsinha24/piyushsinha24-patch-1
+    
+    new quote added.
+
+[33mcommit 543d0122096b8bc2af0ea718ed15ef44ac14872f[m
+Author: whitek2 <whitek2@allegheny.edu>
+Date:   Thu Oct 10 18:05:58 2019 -0400
+
+    added Ben Platt quote (from Tony acceptance speech)
+
+[33mcommit 0e1642c7fdd0e241beb207b67f5017a06b8b04ce[m
+Author: Piyush Sinha <piyush.sinha24@gmail.com>
+Date:   Fri Oct 11 03:01:32 2019 +0530
+
+    new quote added.
+
+[33mcommit 9b2afd4fde9880d382fb26b28098129400ed1312[m
+Author: dominusmars <khawammohamad99@gmail.com>
+Date:   Thu Oct 10 17:27:47 2019 -0400
+
+    Quote by Albert Einstein
+
+[33mcommit 97d9fcce8ec3f22b9482d23ac152f95ae221f2f9[m
+Author: Jamal Yarali <jamaldanlod@gmail.com>
+Date:   Fri Oct 11 00:45:54 2019 +0330
+
+    Update quote.json
+
+[33mcommit d1499ff70c536d1df768ede2d07f780ca04cb132[m
+Merge: b907e34 3def78c
+Author: Sascha Diefenthäler <alloro@users.noreply.github.com>
+Date:   Thu Oct 10 23:00:44 2019 +0200
+
+    Merge branch 'master' into bill-gates-quote
+
+[33mcommit df1046f8318d5642015112320256247426889662[m
+Author: emonteroe <emanuel.montero.e@gmail.com>
+Date:   Thu Oct 10 17:35:12 2019 -0300
+
+    Sir Edmund Hillary Quote fixed
+
+[33mcommit 21b7f0b6a4c93bead3486f3f58cd3a45c5a921a6[m
+Author: anshuldutt21 <anshuldutt21@gmail.com>
+Date:   Fri Oct 11 00:56:26 2019 +0530
+
+    quote by Aristotle
+
+[33mcommit b5d4ca19c33114fceb001f7518f3f62690715617[m
+Author: emonteroe <emanuel.montero.e@gmail.com>
+Date:   Thu Oct 10 16:13:22 2019 -0300
+
+    Sir Edmund Hillary Quote
+
+[33mcommit f1cb2b8d9e4ef9aac5d115eea8aa542c21eed6ef[m
+Author: Felipe Rocha <felipearaujo289@gmail.com>
+Date:   Thu Oct 10 16:03:32 2019 -0300
+
+    Buddha's quote
+
+[33mcommit 42c8e789ba853e1fa52f1f3e0c722fbf575b94c6[m
+Author: Nagib Matni <nmatni@gmail.com>
+Date:   Thu Oct 10 15:59:21 2019 -0300
+
+    Mises's Quote
+
+[33mcommit 04326275b48ea33bcea659229ee4b0e8ec325359[m
+Author: sawatdee <osuppawej@hotmail.com>
+Date:   Fri Oct 11 01:56:48 2019 +0700
+
+    Add a quote by Stephen Hawking
+
+[33mcommit eea4f2513f5edb62d3ca44418aa7c12820d8930b[m
+Author: Christopher Nash <Zeustopher@users.noreply.github.com>
+Date:   Thu Oct 10 12:53:11 2019 -0600
+
+    Added a quote by Pedro Domingos
+    
+    This quote was added for all of those who are afraid of computers getting too smart and taking over the world. :robot:
+
+[33mcommit 3c31ea7a2d208cde60a46b36aef96cb443f1c6c1[m
+Author: Diego Ferreira <dafvus@gmail.com>
+Date:   Thu Oct 10 11:45:42 2019 -0700
+
+    Added quote from Maya Angelou
+
+[33mcommit a780b5ffa8d534fd166da64926815e4fec933e3f[m
+Author: Fábio Araújo <fabioaraujo289@gmail.com>
+Date:   Thu Oct 10 15:36:59 2019 -0300
+
+    Quote from Isaac Newton
+
+[33mcommit 7e74aabc88367c17359522bcd026f9cf1d55a634[m
+Author: Salil Cuncoliencar <Salil_Cuncoliencar@intuit.com>
+Date:   Fri Oct 11 00:03:03 2019 +0530
+
+    Quites from Mary Kom and Virat Kohli
+
+[33mcommit 3def78cab713fe8da8e58c1f2aafc32c43a0bf28[m
+Merge: 48400c0 3651eb4
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Thu Oct 10 23:10:17 2019 +0530
+
+    Merge pull request #10 from manbhasin/master
+    
+    quote by Alicia N Green
+
+[33mcommit 3651eb4ed3c1fa05c07e129e3884bedf94fded74[m
+Author: manbhasin <44581365+manbhasin@users.noreply.github.com>
+Date:   Thu Oct 10 23:03:06 2019 +0530
+
+    quote by Alicia N Green
+
+[33mcommit 48400c05445d700c47cae4a5168764297679aa0b[m
+Merge: 29fd34f 028ebd3
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Thu Oct 10 22:57:14 2019 +0530
+
+    Merge pull request #9 from molly7657/newquote
+    
+    Added Lady Gaga Quote
+
+[33mcommit 028ebd3b1b0513598d997d95c51179dcef6a2c6c[m
+Author: Molly Lupton <molly.lupton@gmail.com>
+Date:   Thu Oct 10 13:19:56 2019 -0400
+
+    added lady gaga quote
+
+[33mcommit 29fd34f4f97b864a80172a41d4da0d399f6b92da[m
+Merge: 0b54436 75ac065
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Thu Oct 10 22:43:42 2019 +0530
+
+    Merge pull request #6 from chintanvijan/master
+    
+    Update quotes.json
+
+[33mcommit 75ac06500707c3515d7eb432c0a57caba10b332c[m
+Author: Chintan Vijan <35058356+chintanvijan@users.noreply.github.com>
+Date:   Thu Oct 10 22:33:34 2019 +0530
+
+    Update quotes.json
+
+[33mcommit 0b54436bcfd8e83670fa8b498a17083b016dbb99[m
+Merge: 0fc9fcd 50ad25b
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Thu Oct 10 22:28:01 2019 +0530
+
+    Merge pull request #5 from TarushS/master
+    
+    Added a quote
+
+[33mcommit 50ad25b84add8c24343e238cf77e04070e173944[m
+Author: Anonimbus <38459708+TarushS@users.noreply.github.com>
+Date:   Thu Oct 10 22:20:44 2019 +0530
+
+    Update quotes.json
+    
+    Added a quote
+
+[33mcommit dbe031172b6cf3be772aca65cc8feafc5a40bc6c[m
+Author: Anonimbus <38459708+TarushS@users.noreply.github.com>
+Date:   Thu Oct 10 22:20:04 2019 +0530
+
+    Update quotes.json
+    
+    Added a quote
+
+[33mcommit 0fc9fcda470bd76fccf7509bba80b62f7c1a4641[m
+Merge: 7f17552 e64b894
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Thu Oct 10 22:05:45 2019 +0530
+
+    Merge pull request #4 from imsonujangra/imsonujangra-bill-gate-quote
+    
+    bill gate quote added
+
+[33mcommit e64b894a803c741009dc34538fcfbf66578a5255[m
+Merge: e1023e1 7f17552
+Author: Sonu Jangra <imsonujangra@yahoo.com>
+Date:   Thu Oct 10 21:58:24 2019 +0530
+
+    Merge branch 'master' into imsonujangra-bill-gate-quote
+
+[33mcommit 7f175521530b79cc4c5b277cf14afd5f44f7ee27[m
+Merge: 92d1e35 5c8b740
+Author: Palash Bauri <bauripalash@users.noreply.github.com>
+Date:   Thu Oct 10 21:56:09 2019 +0530
+
+    Merge pull request #2 from nicm42/nicm42
+    
+    Added Douglas Adams quote
+
+[33mcommit e1023e15655de1c4ee4a3ad8e97da0b7d62495dd[m
+Author: Sonu Jangra <sonu.jangra@cardekho.com>
+Date:   Thu Oct 10 21:51:53 2019 +0530
+
+    bill gate quote added
+
+[33mcommit b907e346a721561ad5d085c70ecf223a68f922ae[m
+Author: Sascha Diefenthaeler <sascha.diefenthaeler.extern@sixt.com>
+Date:   Thu Oct 10 18:14:28 2019 +0200
+
+    Add famous quote from bill gates at the needs in 1981
+
+[33mcommit 5c8b74047bd6617fe9be1bd9e778dffddf292f7e[m
+Author: Nic Mayer <nicmayer42@gmail.com>
+Date:   Thu Oct 10 17:09:03 2019 +0100
+
+    Added Douglas Adams quote
+
+[33mcommit a10ee027fe90ebfa08673e1f2dd2d9f729ef9122[m
+Author: Jirapong Kanha <jirapong@cupcodeteam.com>
+Date:   Thu Oct 10 22:57:36 2019 +0700
+
+    add quote
+
+[33mcommit 92d1e35390d28f7856a77c0777cb96c154c2fa57[m
+Author: bauripalash <palashbauri1@gmail.com>
+Date:   Thu Oct 10 20:57:48 2019 +0530
+
+    added netlify badge
+
+[33mcommit ea3cb5dbfd138bcc796b0f8dc1870ebc612ddf31[m
+Author: bauripalash <palashbauri1@gmail.com>
+Date:   Thu Oct 10 20:44:25 2019 +0530
+
+    added Readme
+
+[33mcommit 9626339754103a35190fa70a06d4721be9340c91[m
+Author: bauripalash <palashbauri1@gmail.com>
+Date:   Thu Oct 10 20:26:32 2019 +0530
+
+    working prototype
